@@ -7,16 +7,18 @@ GTM Engineer and AI Automation builder. I design and run production systems that
 🤖 Focused on multi agent AI pipelines, RAG, and AI driven content and outreach systems
 🧠 Background in linguistics, so I think a lot about language, structure, and how systems communicate
 🌍 Fluent in German and Arabic, conversational in Spanish
-📫 Reach me: matthewjbis@gmail.com | mattbis.com | [LinkedIn](https://www.linkedin.com/in/matthewjbis/)
+📫 Reach me: matthewjbis@gmail.com | [mattbis.com](https://mattbis.com/) | [LinkedIn](https://www.linkedin.com/in/matthewjbis/)
 
 
-What I work with
+What I work with:
 
 JavaScript, Python, n8n, LangGraph, Salesforce, Apollo, Supabase, Clay, ActiveCampaign, Claude and other LLM APIs
 
 What I'm into outside of code
 
 Reading, writing, language learning, lifting
+
+(EN•DE•ES•عربي)
 
 <!---
 matthewjbis/matthewjbis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
