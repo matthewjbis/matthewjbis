@@ -7,7 +7,7 @@ GTM Engineer and AI Automation builder. I design and run production systems that
 🤖 Focused on multi agent AI pipelines, RAG, and AI driven content and outreach systems
 🧠 Background in linguistics, so I think a lot about language, structure, and how systems communicate
 🌍 Fluent in German and Arabic, conversational in Spanish
-📫 Reach me: matthewjbis@gmail.com | mattbis.com | LinkedIn
+📫 Reach me: matthewjbis@gmail.com | mattbis.com | [LinkedIn](https://www.linkedin.com/in/matthewjbis/)
 
 
 What I work with
